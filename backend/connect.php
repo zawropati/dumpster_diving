@@ -4,8 +4,8 @@ header('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, PATCH, DELETE')
 header("Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept");
 
 try{
-  $sUserName = 'b3326e65138e72';
-  $sPassword = 'f7db8163';
+  $sUserName = 'xxx';
+  $sPassword = 'xxx';
   $sConnection = "mysql:host=eu-cdbr-west-03.cleardb.net; dbname=heroku_7e179fbb358ce53; charset=utf8mb4";
 
   $aOptions = array(
