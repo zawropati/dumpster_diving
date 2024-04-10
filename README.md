@@ -4,7 +4,7 @@
     Web application with an interactive map of dumspter diving spots around Copenhagen. It provides suggestions of potential spots, based on supermarket locations     around the city. Users can add their own dumpster diving spots, add ratings and review them, as well as claim what can be found there. 
   </div>
   <div>
-  ![](https://i.ibb.co/nfnrMLZ/dumpie.gif)
+  ![](https://github.com/zawropati/dumpster_diving/blob/master/webapp/src/assets/dumpie.gif)
   </div>
 </div>
 
